@@ -1,0 +1,4 @@
+Image Filename,Predicted Class,p(non-COVID-19),p(COVID-19),Explanation Filename
+000001-1.jpg,non-COVID-19,0.7513837814331055,0.24861615896224976,/home/ubuntu/covid-cxr/results/predictions/20201114-010103/000001-1.jpg_exp_20201114-010119.png
+000001-10.jpg,non-COVID-19,0.9776361584663391,0.022363794967532158,/home/ubuntu/covid-cxr/results/predictions/20201114-010103/000001-10.jpg_exp_20201114-010134.png
+000001-1.png,non-COVID-19,0.9999943971633911,5.602014880423667e-06,/home/ubuntu/covid-cxr/results/predictions/20201114-010103/000001-1.png_exp_20201114-010148.png
