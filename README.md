@@ -13,12 +13,12 @@ Nayem Paiker (ucid: nrp66)
 Download the covid-cxr repo
 https://github.com/aildnont/covid-cxr
 
-Download the covid-cxr repo
-https://github.com/aildnont/covid-cxr
-
 Download the 3 image repos
+
 [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
+
 [Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
+
 [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
 
 Update your config.yml file to point to these repos
