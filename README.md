@@ -10,8 +10,8 @@ Nayem Paiker (ucid: nrp66)
 
 ### GradCam Explanation
 
-![GradCam_Image](Part 1 LIME and GradCam Results/gradcam_explanation.png)
+![GradCam_Image](Part_1_LIME_And_GradCam_Results/gradcam_explanation.png)
 
 ### LIME Explanation
 
-![LIME_Image](Part 1 LIME and GradCam Results/lime_explanation.png)
+![LIME_Image](Part_1_LIME_And_GradCam_Results/lime_explanation.png)
