@@ -19,8 +19,8 @@ Nayem Paiker (ucid: nrp66)
 
 ### Prediciton Samples
 
-![000001-1_jpg](Part_1_LIME_And_GradCam_Results/Predictions/000001-1.jpg_exp_20201114-010119.jpg)
+![000001-1_jpg](Part_1_LIME_And_GradCam_Results/Predictions/000001-1.jpg_exp_20201114-010119.png)
 
-![000001-1_png](Predictions/000001-1.png_exp_20201114-010148.png)
+![000001-1_png](Part_1_LIME_And_GradCam_Results/Predictions/000001-1.png_exp_20201114-010148.png)
 
-![000001-10_jpg](Part_1_LIME_And_GradCam_Results/Predictions/000001-10.jpg_exp_20201114-010134.jpg)
+![000001-10_jpg](Part_1_LIME_And_GradCam_Results/Predictions/000001-10.jpg_exp_20201114-010134.png)
