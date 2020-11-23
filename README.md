@@ -71,3 +71,9 @@ can be loadede from that.
 
 The sample x-ray that was used is included as well as the output image.
 
+
+Shap output image and explanation is included in our group paper on SHAP.
+
+![SHAP_paper](CS%20677%20Project%202%20Writeup.pdf)
+
+
